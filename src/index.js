@@ -9,3 +9,8 @@ console.log(sayHello('srcDave'));
 console.log('Server is up and running');
 
 export default server;
+const person = {
+    name: "John Doe",
+    age: 37
+}
+person.name = "mary";
